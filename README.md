@@ -1,2 +1,3 @@
 # workinprogess
-i am doing git hub for some infomational 
+author -  dhanra k beldar
+project - profit of new statups 
